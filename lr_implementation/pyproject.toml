@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "lr-implementation"
+version = "0.1.0"
+description = "Implementation of Logsitic Regression from Scratch"
+authors = ["Modawood2023 <muhsindawood123@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
